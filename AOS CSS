@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+item {
+  width: 100px;
+  height: 10px;
+  margin: 2px auto;
+  padding-top: 5px;
+  background: blue;
+background:rgba(0,0,4,0.9);
+  text-align: center;
+  padding-top: 100px;
+ background: grey;
+ font-size: 2em;
+}

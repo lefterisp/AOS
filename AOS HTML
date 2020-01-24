@@ -1,0 +1,23 @@
+<div>
+<div class="item" style="text-align: center;" data-aos="fade-up">This Is a Test for many reasons</div>
+<div class="item" style="text-align: right;" data-aos="fade-left"><img src="images/new/oia-416136_1920.jpg" width="520" height="328" /></div>
+<div>
+<div class="item" style="text-align: center;" data-aos="fade-up">This is a Second Test for several reasons</div>
+<div class="item" style="text-align: left;" data-aos="fade-right"><img src="images/new/santorini-1546901_1920.jpg" width="520" height="391" /></div>
+</div>
+<div>
+<div class="item" style="text-align: center;" data-aos="flip-up">This is Third Test</div>
+<div class="item" style="text-align: right;" data-aos="fade-left"><img src="images/new/sparkling-wine-1030754_1920.jpg" width="520" height="347" /></div>
+<div class="item" style="text-align: left;" data-aos="fade-right"><img src="images/new/travel-4093085_1920.jpg" width="520" height="313" /></div>
+</div>
+<div>
+<div class="item" style="text-align: right;" data-aos="fade-left"><img src="images/new/tavern-2861914_1920.jpg" width="520" height="347" /></div>
+<div class="item" style="text-align: left;" data-aos="fade-right"><img src="images/new/sunset-2191645_1920.jpg" width="520" height="346" /></div>
+</div>
+<div>
+<div>
+<div class="item" style="text-align: right;" data-aos="fade-left"><img src="images/new/towel-759980_1920.jpg" width="520" height="347" /></div>
+<div class="item" style="text-align: left;" data-aos="fade-right"><img src="images/new/tavern-2861914_1920.jpg" width="520" height="347" /></div>
+</div>
+</div>
+</div>
